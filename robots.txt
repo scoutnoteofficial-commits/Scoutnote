@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scoutnoteofficial-commits.github.io/Scoutnote/sitemap.xml
