@@ -25,7 +25,8 @@ Our mission is to make quality study notes available to every student for free, 
 
 ## 🌐 Live Website
 
-https://scoutnoteofficial.github.io
+Visit ScoutNote:
+https://scoutnoteofficial-commits.github.io/Scoutnote/
 
 ## 📚 Subjects
 
